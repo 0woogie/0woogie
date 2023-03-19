@@ -1,16 +1,19 @@
-# Hi there 👋 I'm 0woogie
+## About Me 👋
+- Soongsil Univ. Software Engineering
+- Back-End Developer
 
-<!--
-![0woogie's GitHub stats](https://github-readme-stats.vercel.app/api?username=0woogie&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0woogie&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0woogie)](https://solved.ac/0woogie/)
--->  
+## Skills 🛠
 
-## Tech Stack
+### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
+### Back-End & DB
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
+## BOJ 🔭
+
 
 ## Contacts
 [![Devlog Badge](http://img.shields.io/badge/-Devlog-black?style=flat-square&logo=github&link=https://velog.io/@0woogie)](https://velog.io/@0woogie)
