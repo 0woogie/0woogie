@@ -14,10 +14,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-## BOJ 🔭
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0woogie)](https://solved.ac/0woogie/)
-
-## Contacts
+## Contacts 🔭
 [![Devlog Badge](http://img.shields.io/badge/-Devlog-black?style=flat-square&logo=github&link=https://velog.io/@0woogie)](https://velog.io/@0woogie)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0woogie.dev@gmail.com)](mailto:0woogie.dev@gmail.com)
 
